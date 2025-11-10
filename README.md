@@ -1,5 +1,6 @@
 <!-- 🌟 Professional Animated GitHub Profile README for Nikhil Chaudhary -->
 
+<!-- 🖼️ Replace 'updatedBanner.png' with your custom banner image -->
 <img src="updatedBanner.png" width="100%" alt="Banner Image">
 
 <h1 align="center">
@@ -7,8 +8,8 @@
   Hey there, I'm <b>Nikhil Chaudhary</b> 👨‍💻
 </h1>
 
-<h3 align="center">🎓 CSE AIML Student | Java Developer | Machine Learning Enthusiast</h3>
-<h4 align="center">💡 Exploring Intelligent Systems, Predictive Modeling, and Applied AI</h4>
+<h3 align="center">💻 AI & Machine Learning Engineer | Java Developer | Data-Driven Innovator</h3>
+<h4 align="center">🤖 Turning Complex Data into Intelligent, Scalable Solutions</h4>
 
 ---
 
@@ -30,12 +31,12 @@
 
 <a><img align="right" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300" height="250" /></a>
 
-- 🎓 Pursuing **B.Tech in Computer Science (AIML)** at **Manipal University Jaipur**.  
-- 💻 Focused on **Machine Learning Models**, **Data Analytics**, and **Java-based Development**.  
-- ⚙️ I enjoy applying **AI** to solve practical, impactful problems.  
-- 🌱 Currently working on **advanced predictive models** and **data-driven automation systems**.  
-- 🧠 Certifications: **Oracle Cloud AI Foundation**, **OCI Generative AI**, **AI Vector Search**, **DeepLearning.AI Specialization**.  
-- 💬 Passionate about learning, collaboration, and innovation in AI and Software Engineering.  
+🚀 I’m **Nikhil Chaudhary**, a passionate **AI & Machine Learning Engineer** with expertise in **Java Programming**, **Python**, and **Applied Machine Learning**.  
+💡 My focus lies in **building predictive, data-driven AI systems** — transforming data into scalable, intelligent business solutions.  
+🧠 Skilled across the full ML lifecycle: from **data preprocessing**, **feature engineering**, and **model training** to **deployment via Flask APIs** and **cloud integration**.  
+📊 Experienced in designing and implementing **financial-market forecasting models**, **fraud detection algorithms**, and **website authenticity classifiers** using modern supervised learning techniques.  
+⚙️ Certified in **Oracle Cloud AI Foundation**, **OCI Generative AI**, and **AI Vector Search**, I blend AI innovation with solid software development practices to deliver efficient, production-ready systems.  
+💬 Passionate about **intelligent automation**, **data analytics**, and **real-world AI applications**, with an emphasis on explainability, performance, and deployment scalability.  
 
 ---
 
@@ -72,15 +73,15 @@
 | **AI Model for Financial Market Prediction** 🔮 | Built hybrid AI models to forecast market trends using **transformers** and **sentiment analysis**, improving predictive accuracy. |
 | **Fake Website Detection using Machine Learning** 🔍 | Developed a machine learning model to identify fraudulent and phishing websites with high precision. |
 | **Student Performance Prediction** 📊 | Created a data-driven ML model to predict academic outcomes and risk factors using real-world datasets. |
-| **Flask-based ML Deployment App** 🌐 | Deployed trained ML models on **Flask**, enabling real-time predictions via interactive web interface. |
+| **Flask-based ML Deployment App** 🌐 | Deployed trained ML models on **Flask**, enabling real-time predictions via an interactive web interface. |
 
 ---
 
 ## 🏅 Certifications  
 
-- 🧠 Oracle Cloud Infrastructure (OCI): **AI Foundation**, **Generative AI**, **AI Vector Search**  
-- 🤖 DeepLearning.AI: **Neural Networks & Deep Learning**  
-- 💼 Forage (JPMorgan Chase & Co.): **Software Engineering Simulation**  
+- 🧠 **Oracle Cloud Infrastructure (OCI)** – AI Foundation | Generative AI | AI Vector Search  
+- 🤖 **DeepLearning.AI** – Neural Networks & Deep Learning  
+- 💼 **Forage (JPMorgan Chase & Co.)** – Software Engineering Job Simulation  
 
 ---
 
@@ -88,14 +89,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=04nikhilchaudhary&theme=tokyonight&column=6" />
-</p>
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=04nikhilchaudhary&theme=tokyo-night" alt="Nikhil’s Contribution Graph"/>
 </p>
 
 ---
